@@ -33,7 +33,7 @@ The dashboard contains several graphs/charts providing info on various sale KPIs
 - Sales by State - Bar chart showing the top 10 states that had the highest sales.
 - Cards - Total sales and profit.
 
-Review the dashboard *[HERE](https://public.tableau.com/app/profile/matthew.sanders1757/viz/TornadoDashboard_17221868410840/SummaryDashboard)*
+Review the dashboard *[HERE](https://github.com/msanders25/Visualizations-in-Tableau-and-Power-BI/blob/main/Sales%20Dashboard.pbix)*
 
 The original dataset can be found at this link *[powerbidocs.com](https://powerbidocs.com/2019/11/28/power-bi-sample-data-set-for-practice/)*
 
